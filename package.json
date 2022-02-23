@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_playground",
+  "version": "1.0.0",
+  "description": "fentastic journey ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start a new end point"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brocksri850/NodeJs-PlayGround.git"
+  },
+  "keywords": [
+    "playSomething"
+  ],
+  "author": "Sridhar D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brocksri850/NodeJs-PlayGround/issues"
+  },
+  "homepage": "https://github.com/brocksri850/NodeJs-PlayGround#readme"
+}
