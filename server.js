@@ -1,6 +1,20 @@
-var str='sudharsana';
-const arr=str.split('s').join('k');
-console.log(arr);
+var str = 'sudharsana';
+var char1='s';
+var rep= "";
+var len = str.length
+const arr = [];
+for (let i = 0; i < len; i++) {
+    rep = rep + str.charAt(i); 
+    if(char1 == rep){
+        str.replace('k');
+    }  
+}
+console.log(rep);
+
+                 // inbuilt function
+// var str='sudharsana';
+// const arr=str.split('s').join('k');
+// console.log(arr);
 
 
 // var len=arr.length;
